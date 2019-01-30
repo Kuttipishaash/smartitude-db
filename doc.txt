@@ -1,0 +1,10 @@
+Unique identifier for each row in admin table. AUTO GENERATED
+Name of the admin user used for login.
+Type of the user used for login.
+Email address of the admin user.
+Password of the admin user used for login.
+Timestamp of creation time of admin user.
+Timestamp of last updation time of admin user.
+Identifier of the department to which the student belongs to.
+
+Link to the icon file related to that category.
